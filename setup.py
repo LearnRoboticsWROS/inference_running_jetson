@@ -27,6 +27,7 @@ setup(
             'yolo_annotator = inference_running.yolo_annotator:main',
             'pose_estimation = inference_running.pose_estimation:main',
             'pose_estimation_stable = inference_running.pose_estimation_stable:main',
+            'three_pose_estimation_publisher = inference_running.three_pose_estimation_publisher:main',
         ],
     },
 )
