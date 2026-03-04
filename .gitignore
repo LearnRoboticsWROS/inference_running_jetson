@@ -1,0 +1,20 @@
+# ROS / colcon
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+.venv/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
